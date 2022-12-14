@@ -1,2 +1,2 @@
-# KaroCat.github.io
+# Cat
 Project Website
